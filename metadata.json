@@ -1,0 +1,6 @@
+{
+  "name": "Abhilash Restaurant",
+  "description": "Abhilash Restaurant Food Ordering & Management Platform with Customer Ordering, Kitchen Admin, and Delivery Portals",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
